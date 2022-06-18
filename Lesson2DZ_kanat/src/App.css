@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+}
+
+.App {
+    /* color: blue; */
+    text-align: center;
+    width: 1200px;
+}
+
+@media (max-width:470px) {
+    .abtp {
+        color: rgba(223, 116, 116, 0.432);
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 400px;
+        text-align: center;
+        transform: scale(2.4);
+    }
+}
+
+.about{
+
+    justify-content: space-around;
+    display: block;
+
+}
