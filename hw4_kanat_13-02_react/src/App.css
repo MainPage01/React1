@@ -1,0 +1,13 @@
+.App {
+  /* flex-direction: column; */
+  text-align: center;
+}
+
+.column{
+  /* background-color: aqua; */
+  display: block;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+
